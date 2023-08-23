@@ -1,1 +1,1 @@
-Aqui Desenolvo o ódigo Javascript.
+Aqui Desenolvo o código Javascript.
